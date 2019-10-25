@@ -1,0 +1,6 @@
+framework module Pods_Firebase_email_login_SwiftUI_Firebase_email_login_SwiftUIUITests {
+  umbrella header "Pods-Firebase-email-login-SwiftUI-Firebase-email-login-SwiftUIUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
